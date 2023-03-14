@@ -1,10 +1,8 @@
-# ![logo](http://esa-sen4cap.org/sites/default/files/sen4cap_logo_m.png)
+# Sen4CAP - Sentinels for Agriculture Statistics
 
-# Sen4CAP - Sentinels for Common Agriculture Policy
+Agricultural monitoring at national scale is a prerequisite for assessing and analyzing the agricultural resources by mandated authorities, usually the agricultural National Statistical Offices (NSOs). NSO collect in general national agricultural monitoring data by farm and household surveys. Recognizing the limitations of the current agricultural data collection in developing, emerging as well as in industrialized countries, key international bodies and UN agencies aim to improve and enhance the current practices in agriculture data collection and have referred to the potential of satellite Earth Observation for agricultural statistics.
 
-The Sentinels for Common Agricultural Policy - Sen4CAP project aims at providing to the European and national stakeholders of the CAP validated algorithms, products, workflows and best practices for agriculture monitoring relevant for the management of the CAP. The project will pay particular attention to provide evidence how Sentinel derived information can support the modernization and simplification of the CAP in the post 2020 timeframe.
-
-See http://esa-sen4cap.org/ for more details.
+See https://esa-sen4stat.org/ for more details.
 
 ## License
 
